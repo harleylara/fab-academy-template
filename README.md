@@ -2,6 +2,8 @@
 
 This template is powered by [docsify](https://github.com/docsifyjs/docsify), is a framework based in javascript to generates your documentation website on the fly. Unlike to other SSG, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website.
 
+Demo [here](https://harleylara.github.io/fab-academy-template/).
+
 ## Features
 
 * Search bar
